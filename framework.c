@@ -3,7 +3,7 @@
 
 int speed = 50;
 
-void go(char* direction, int time){
+void go(char* direction, int time) {
 	// 690 is a good turn time :D
 	if (direction == "forward") {
 		motor[motorB] = speed;
@@ -32,5 +32,6 @@ void go(char* direction, int time){
 	}
 }
 
-task main(){
+task main( ){
+	// Your code goes here
 }
