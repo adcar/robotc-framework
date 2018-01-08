@@ -32,6 +32,6 @@ void go(char* direction, int time) {
 	}
 }
 
-task main (){
+task main () {
 	// Your code goes here
 }
