@@ -4,5 +4,6 @@ Quick little framework designer to add a "go" function. You can specify directio
 
 Example:
 ```
-go("left", 2000); // Goes left for 2 seconds
+go("left", 690); // Goes left for 690 miliseconds
+go("forward", 5000) // Goes forward for 5 seconds
 ```
